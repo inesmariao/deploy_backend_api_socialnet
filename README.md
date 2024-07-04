@@ -23,13 +23,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
     ```bash
     MONGODB_URI=aquí el string de conexión a Mongo Atlas sin comillas
     PORT=####
-    `
-    Ejemplo:
-    ```bash
-    MONGODB_URI=mongodb+srv://tu_usuario_mongo_atlas_cloud:tu_password@tu_cluster.configuración_de_mongo.mongodb.net/tu_nombre_bd?retryWrites=true&w=majority
-    PORT=3900
-    `
-
+    ```
 4. Instala las dependencias del proyecto utilizando npm:
 
     ```bash
